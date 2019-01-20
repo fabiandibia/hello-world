@@ -8,4 +8,4 @@ Scared about it but excited about how much freedom tis knowledge can bring me.
 been reading up on my own a bit of c#, php, html,js... totaly new to node.js but hey! what the Lets go for it.
 
 Wish me luck
-
+This commit thing is not working as it should... try again
